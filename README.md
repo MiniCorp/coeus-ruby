@@ -13,7 +13,7 @@ Coeus.send_event(
   ENV['COEUS_API_KEY'],
   'your_event_type',
   {
-    "a": "b, # Add any metadata
+    "a": "b" # Add any metadata
   }
 )
 ```
